@@ -15,4 +15,4 @@ Je sais faire à peu près tout... voici quelques travaux que j'ai pu réaliser 
 - Quelques trucs tels que des cheats, des automatisations et bien plus encore !
 
 ## Quelles-sont mes disponibilités ? ⏲️
-Jusqu'à ce que je modifie cette phrase, je suis disponible non-stop (sauf si je dors) et rien est prévu à l'avenir.
+Jusqu'à ce que je modifie cette phrase, je suis disponible non-stop (sauf si je dors) et rien n'est prévu à l'avenir.
