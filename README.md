@@ -5,7 +5,7 @@ Et sinon... Que diriez-vous que je réponde à quelques questions fréquentes ? 
 ## En quel language je code ? ⌨️
 Je code en **C#**, **Python**, **HTML**, **CSS** et pour finir **JS** !
 
-## Qu'est-ce que je sais faire ?
+## Qu'est-ce que je sais faire ? ✍️
 Si tout ce que j'ai dit n'est pas français, voici une explication simplifiée !<br>
 Je sais faire à peu près tout... voici quelques travaux que j'ai pu réaliser si ça peut vous aiguiller :
 
